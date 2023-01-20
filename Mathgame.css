@@ -14,10 +14,7 @@ body {
     justify-content: center;
   }
   
-  .status {
-    text-align: center;
-    font-size: .85rem;
-  }
+
   
   .boxes {
     display: flex;
